@@ -1,4 +1,4 @@
 # pie3d-chart
 pie3d-chart base on sprite.js
 
-## 依赖文件采用src加载
+## 依赖文件
