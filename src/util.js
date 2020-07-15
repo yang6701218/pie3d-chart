@@ -7,7 +7,7 @@ function getMax(arr){
     if(maxLen == 1){
         rangeMax = max>5?10:max
     }else{
-        rangeMax = max.toString().replace(/(\d)(\d)(\d*)/,function(max,$1,$2,$3){
+        rangeMax = max.toString().replace(/(\d)(\d)(\d*)/,function(max,$1,$2){
                
               if ($2>5) {
                 
