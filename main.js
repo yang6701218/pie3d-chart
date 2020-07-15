@@ -7,15 +7,15 @@ new Pie3D({
     container,
     data:[{
         title:"华米",
-        num:1200  
+        num: 77
       },{
         title:"苹果",
-        num:1250
+        num:125
       },{
           title:"华为",
-          num:1280
+          num:100
       },{
         title:"荣耀",
-        num:1270
+        num:27
       }]
 })
