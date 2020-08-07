@@ -10,7 +10,7 @@ pie3d-chart base on sprite.js
 
 ``` js
 
-    import Pie3D from './src'
+    import Pie3D from 'pie3djs'
 
     let container = document.getElementById("container")
 
@@ -32,3 +32,5 @@ pie3d-chart base on sprite.js
     })
 
 ```
+![avatar](http://a1.qpic.cn/psc?/V13rVzVM1RKjQV/oBo2DhJ2tsiQw92MIOThMv0ecBm7JW*Iw7KP3KRPMiIdSaxArKCpzd3KVvytw4a7ZP9RtckM.jLTeIXXAYKMrg!!/b&ek=1&kp=1&pt=0&bo=8wHQAfMB0AERADc!&tl=3&vuin=2974322925&tm=1596783600&sce=60-2-2&rf=viewer_311)
+
